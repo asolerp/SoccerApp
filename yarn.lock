@@ -949,6 +949,11 @@
     eslint-plugin-react-native "3.8.1"
     prettier "1.17.0"
 
+"@react-native-community/eslint-plugin@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@react-native-community/eslint-plugin/-/eslint-plugin-1.0.0.tgz#ae9a430f2c5795debca491f15a989fce86ea75a0"
+  integrity sha512-GLhSN8dRt4lpixPQh+8prSCy6PYk/MT/mvji/ojAd5yshowDo6HFsimCSTD/uWAdjpUq91XK9tVdTNWfGRlKQA==
+
 "@react-native-firebase/app-types@6.2.0":
   version "6.2.0"
   resolved "https://registry.yarnpkg.com/@react-native-firebase/app-types/-/app-types-6.2.0.tgz#4d3c0e7fa4e4f00061c52b1a32d76e85e5db9f2c"
@@ -962,6 +967,11 @@
     "@react-native-firebase/app-types" "6.2.0"
     opencollective-postinstall "^2.0.1"
     superstruct "^0.6.2"
+
+"@react-native-firebase/auth@^6.2.0":
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/auth/-/auth-6.2.0.tgz#f31438c1b103052b1e70840b42d8bba785af603d"
+  integrity sha512-pU/Rt3p5DHoKBwPgFMs1+iAH6HQZXo+eYHcSyw9H36NFKYFpVMr75EoCyxQvzm3ZOUUmAO1yu/HWKXBHVFNqTg==
 
 "@react-native-firebase/firestore@^6.2.0":
   version "6.2.0"
